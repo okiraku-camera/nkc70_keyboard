@@ -1,4 +1,4 @@
-# nkc70_release
+# nkc70_keyboard
 
 このリポジトリは、`nkc70` キーボードの KiCad 8 ハードウェア設計データを管理するためのものです。
 
