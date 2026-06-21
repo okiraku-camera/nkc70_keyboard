@@ -25,7 +25,6 @@ and are subject to their own respective licences.
 ------------------------------------------------------------------------------
 1. kiswitch
    Location : pcb/lib/kiswitch/
-              swplate/lib/kiswitch/
    Source   : https://github.com/kiswitch/kiswitch
    Licence  :
      - Footprints and scripts : MIT License
@@ -39,11 +38,8 @@ and are subject to their own respective licences.
    Location : pcb/lib/MountingHole_3mm_Pad.kicad_mod
               pcb/lib/nklib.kicad_sym
               pcb/lib/RP2040-QFN-56.kicad_mod
-              pcb/lib/SW_SPST_TL3342.kicad_mod
               pcb/lib/USB_C_Receptacle_304J-BCP16.kicad_mod
               bplate/lib/MountingHole_3mm_Pad.kicad_mod
-              swplate/lib/MountingHole_3mm.kicad_mod
-              swplate/lib/MountingHole_3mm_Pad.kicad_mod
               swplate/lib/MountingHole_M2.kicad_mod
    Licence  : Some of these files may be derived from or based on the KiCad
               standard libraries. Such files are subject to the KiCad Library
