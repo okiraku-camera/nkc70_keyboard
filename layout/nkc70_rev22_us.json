@@ -1,0 +1,188 @@
+[
+  {
+    "name": "nkc70_rev22_us",
+    "notes": "nicola keyboard (choc) revision 2.2 us layout\nKailh choc v1 switch\nmatrix: 5 x 14",
+    "plate": true
+  },
+  [
+    {
+      "t": "#000000\n\n#ff0000\n#ff0000",
+      "a": 0
+    },
+    "Esc\n\n~\n`\nSW1",
+    {
+      "t": "#000000\n\n\n#ff0000"
+    },
+    "!\n1\n\nF1\nSW2",
+    "@\n2\n\nF1\nSW3",
+    "#\n3\n\nF3\nSW4",
+    {
+      "a": 4
+    },
+    "$\n4\n\nF4\nSW5",
+    "%\n5\n\nF5\nSW6",
+    "^\n6\n\nF6\nSW7",
+    "&\n7\n\nF7\nSW8",
+    "*\n8\n\nF8\nSW9",
+    "(\n9\n\nF9\nSW10",
+    ")\n0\n\nF10\nSW11",
+    "_\n-\n\nF11\nSW12",
+    "=\n+\n\nF12\nSW13",
+    {
+      "a": 0,
+      "w": 1.25
+    },
+    "BS\n\n\nDelete\nSW14"
+  ],
+  [
+    {
+      "t": "#000000",
+      "w": 1.25
+    },
+    "Tab\n\n\n\nSW15",
+    "\nQ\nぁ\n。\nSW16",
+    {
+      "a": 4
+    },
+    "\nW\nえ\nか\nSW17",
+    "\nE\nり\nた\nSW18",
+    "\nR\nゃ\nこ\nSW19",
+    "\nT\nれ\nさ\nSW20",
+    "\nY\nよ\nら\nSW21",
+    "\nU\nに\nち\nSW22",
+    "\nI\nる\nく\nSW23",
+    "\nO\nま\nつ\nSW24",
+    {
+      "t": "#000000\n\n\n\n\n\n\n#ff0000"
+    },
+    "\nP\nぇ\n、\nSW25\n\n\nPsc",
+    {
+      "t": "#000000\n\n\n\n\n\n#ff0000",
+      "a": 0
+    },
+    "{\n[\n\n\nSW26\n\nScr",
+    {
+      "t": "#000000\n\n\n\n\n\n\n\n\n#ff0000"
+    },
+    "}\n]\n\n\nSW27\n\n\n\n\nPause",
+    {
+      "t": "#000000"
+    },
+    "|\n\\\n\n\nSW28"
+  ],
+  [
+    {
+      "t": "#000000\n#ff0000",
+      "w": 1.5
+    },
+    "ImeOff\nCapsLock\n\n\nSW29",
+    {
+      "t": "#000000"
+    },
+    "\nA\nを\nう\nSW30",
+    "\nS\nあ\nし\nSW31",
+    {
+      "a": 4
+    },
+    "\nD\nな\nて\nSW32",
+    "\nF\nゅ\nけ\nSW33",
+    "\nG\nも\nせ\nSW34",
+    "\nH\nみ\nは\nSW35",
+    "\nJ\nお\nと\nSW36",
+    "\nK\nの\nき\nSW37",
+    "\nL\nょ\nい\nSW38",
+    ":\n;\nっ\nん\nSW39",
+    "\"\n'\n\nBS\nSW40",
+    {
+      "a": 0,
+      "w": 1.75
+    },
+    "Enter\n\n\n\nSW41"
+  ],
+  [
+    {
+      "w": 2
+    },
+    "Shift\n\n\n\nSW43",
+    {
+      "a": 4
+    },
+    "\nZ\nぅ\n。\nSW44",
+    "\nX\nー\nひ\nSW45",
+    "\nC\nろ\nす\nSW46",
+    "\nV\nや\nふ\nSW47",
+    "\nB\nぃ\nへ\nSW48",
+    "\nN\nぬ\nめ\nSW49",
+    {
+      "t": "#000000\n\n\n\n\n\n\n\n\n#ff0000",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "\nM\nゆ\nそ\nSW50\n\n\n\n\nMute",
+    "<\n,\nむ\nね\nSW51\n\n\n\n\nVdown",
+    ">\n.\nわ\nほ\nSW52\n\n\n\n\nVup",
+    {
+      "t": "#000000"
+    },
+    "?\n/\nぉ\n・\nSW53",
+    {
+      "x": 0.25,
+      "t": "#000000\n#ff0000",
+      "a": 1
+    },
+    "↑\nPgUp\n\n\nSW54",
+    {
+      "t": "#000000\n\n\n#ff0000",
+      "a": 0
+    },
+    "Shift\n\n\nApp\nSW55"
+  ],
+  [
+    {
+      "t": "#000000",
+      "w": 1.25
+    },
+    "Ctrl\n\n\n\nSW57",
+    "Win\n\n\n\nSW58",
+    "Alt\n\n\n\nSW59",
+    {
+      "t": "#000000\n#ff0000",
+      "w": 1.25
+    },
+    "ImeOff\nImeOn\n\n\nSW60",
+    {
+      "w": 2
+    },
+    "無変換\nSpace\n\n\nSW61",
+    {
+      "t": "#000000",
+      "w": 2.25
+    },
+    "Space\n\n\n\nSW62",
+    {
+      "t": "#000000\n#ff0000",
+      "w": 1.25
+    },
+    "ImeOn\nCtrl\n\n\nSW64",
+    {
+      "w": 1.25
+    },
+    "Fn\nFn\n\n\nSW65",
+    {
+      "a": 1
+    },
+    "←\nHome\n\n\nSW66",
+    "↓\nPgDn\n\n\nSW68",
+    "→\nEnd\n\n\nSW69"
+  ]
+]
